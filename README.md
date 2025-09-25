@@ -3,7 +3,7 @@
 Hej, jag heter Francisco Mauricio De Leon Gonzalez! 👋
 Jag studerar webbutveckling och lär mig Javascript. 
 
-Detta projekt är en laboration i kursen *DT084G, Introduktion till programmering i JavaScript*.  
+Detta projekt är en laboration (moment 4) i kursen *DT084G, Introduktion till programmering i JavaScript*.  
 Syftet är att öva på:
 - DOM-manipulation
 - Händelsehantering (event listeners)
